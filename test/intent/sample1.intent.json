@@ -1,0 +1,7 @@
+{
+  "utterance": "Open the door ",
+  "intent_type": "OpenTheDoorIntent",
+  "intent": {
+    "OpenDoorKeyword": "open the door"
+  }
+}
